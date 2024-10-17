@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527644670869",
+    "project_id": "finanzas-d7bb2",
+    "storage_bucket": "finanzas-d7bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527644670869:android:72136ed6c528656887549c",
+        "android_client_info": {
+          "package_name": "co.com.myapp.cesde"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQc46g5-RslGLbklp3pxLfz2-eJU2Cy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">527644670869</string>
+    <string name="google_api_key" translatable="false">AIzaSyCvQc46g5-RslGLbklp3pxLfz2-eJU2Cy8</string>
+    <string name="google_app_id" translatable="false">1:527644670869:android:72136ed6c528656887549c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvQc46g5-RslGLbklp3pxLfz2-eJU2Cy8</string>
+    <string name="google_storage_bucket" translatable="false">finanzas-d7bb2.appspot.com</string>
+    <string name="project_id" translatable="false">finanzas-d7bb2</string>
+    <style name="Base.Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp"/>
+</resources>
